@@ -33,5 +33,5 @@
 ​📚 Knowledge Base
 ​Concise summaries of the Bitcoin Whitepaper and key details on current network maintainers.
 
-​⚠️ Disclaimer
+​⚠️ Disclaimer 
 ​This project is created strictly for educational purposes and does not constitute financial or investment advice. No profits are guaranteed. Cryptocurrency and futures/perpetual trading carry high market risk. All paper trading features use simulated funds and do not connect to real trading accounts or real capital.
