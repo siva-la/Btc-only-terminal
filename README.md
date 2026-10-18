@@ -10,23 +10,22 @@
 ​Trading Strategy: EMA (trend filter) + MACD (confirmation) + RSI (momentum filter) + ATR (dynamic SL/TP).
 ​Customizable strategy parameters in the Strategy tab.
 
-​💰 Paper Trading
+​💰 Paper Trading: 
 ​Demo trading account with virtual funds executing long/short positions based on live signals.
 ​Position sizing calculated via Risk % + Leverage + Margin Cap rules.
 ​Performance tab: Equity curve, win rate, max drawdown, and Long vs. Short breakdowns.
 
 ​Signal Log: Complete historical signal backtest data (not limited to executed trades).
 
-​🧠 AI Analysis
-​Multi-timeframe volume analysis (15m to 1M).
+​🧠 AI Analysis: 
 ​Real-time Fear & Greed Index integration.
 
 ​🐋 Whale Alert: On-chain transaction monitoring powered by mempool.space.
 
-​🏆 Reward Hub
+​🏆 Reward Hub: 
 ​Unlock collectible "Genesis Cards" upon hitting 5 profit milestones in paper trading.
 
-​🔐 User Accounts
+​🔐 User Accounts: 
 ​Email & Password authentication via Firebase Authentication.
 ​Real-time cloud sync across devices using Cloud Firestore.
 
