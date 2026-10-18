@@ -1,5 +1,6 @@
 # Btc-only-terminal Test Test 
 ​₿ BTC ONLY — Bitcoiner Terminal
+
 ​A single-file Bitcoiner-themed web app for tracking BTC/USDT trading signals on the 1-hour timeframe, practicing paper trading, and monitoring real-time market data—not a real-money automated trading bot.
 
 ​✨ Key Features
